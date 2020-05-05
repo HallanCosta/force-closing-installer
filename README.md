@@ -1,9 +1,11 @@
 # Atalhos
 ##### Se encontra no diretório onde foi instalado dentro da pasta shortcut.
 
+Diretório: C:\Users\myUser\Documents\ForceClosing\shortcut
+
 ---
 
-# Como Registrar um processo
+# Como registrar um processo
 
 ##### Para inserir um processo você precisará seguir os passos seguintes.
 - 1 - Clique com o botão direito do mouse na barra de tarefas do windows em gerenciador de tarefas.
@@ -20,15 +22,10 @@
 
 # Problemas possíveis
 
-### Se ocorrer alguns problemas siga os seguintes passos.
+#### Se ocorrer alguns problemas siga os seguintes passos.
 
-##### Se o problema for porque não encerra todos os processos
-
-- 1 - Tente executar o ForceClosing como ADMINISTRADOR clicando com o botão direito do mouse.
-
-##### Se a etapa acima não resolver tente
-- 1 - Vá no Tools - ForceClosing execute como ADMINISTRADOR e selecione a opção (Mostrar todos os processos)
+- 1 - Vá no Tools - ForceClosing execute-o e selecione a opção (Mostrar todos os processos).
 - 2 - Verifique se algum processo esta sendo imprimido dessa maneira: example.exeexample.exe
 - 3 - Se estiver assim /\, Vá no Tools - ForceClosing e selecione a opção (Deletar processo) e exclua a linha aquela linha.
 - 4 - Feito isso, registre novamente o processo que deletou que deve voltar a funcionar.
-ECHO 5 - Se nenhuma das opções acima funcionar, Vá no Tools - ForceClosing e selecione a opção (Deletar todos os processos).
+- 5 - Se nenhuma das opções acima funcionar, Vá no Tools - ForceClosing e selecione a opção (Deletar todos os processos).
