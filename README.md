@@ -1,7 +1,7 @@
 # Atalhos
 ##### Se encontra no diretório onde foi instalado dentro da pasta shortcut.
 
-Diretório: C:\Users\myUser\Documents\ForceClosing\shortcut
+Diretório: C:\ForceClosing\shortcut
 
 ---
 
@@ -23,6 +23,8 @@ Diretório: C:\Users\myUser\Documents\ForceClosing\shortcut
 # Problemas possíveis
 
 #### Se ocorrer alguns problemas siga os seguintes passos.
+
+##### Dica: Se os problemas for por não finalizar processos, Execute o ForceClosing e o Tools - ForceClosing sempre como administrador.
 
 - 1 - Vá no Tools - ForceClosing execute-o e selecione a opção (Mostrar todos os processos).
 - 2 - Verifique se algum processo esta sendo imprimido dessa maneira: example.exeexample.exe
